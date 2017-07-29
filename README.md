@@ -1,6 +1,6 @@
 # tictactoe
 
-Try it out here https://tranjt.github.io/tictactoe/
+You can try it out here https://tranjt.github.io/tictactoe/
 
 FCC Tic Tac Toe project
 https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game
